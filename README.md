@@ -52,9 +52,6 @@ The project currently supports a variety of languages, including but not limited
 
 We welcome contributions from the community! If you'd like to contribute to the project, please follow our [contribution guidelines](CONTRIBUTING.md).
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
